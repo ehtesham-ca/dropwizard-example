@@ -7,24 +7,6 @@
   <version>1.0-SNAPSHOT</version>  
   <packaging>jar</packaging>  
   <name>NLPService</name>
-  <repositories>
-    <repository>
-      <id>df-java-maven</id>
-      <url>http://tdc1tfsapp01:8080/tfs/DefaultCollection/_packaging/df-java-maven/maven/v1</url>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
-  <distributionManagement>
-    <repository>
-      <id>df-java-maven</id>
-      <url>http://tdc1tfsapp01:8080/tfs/DefaultCollection/_packaging/df-java-maven/maven/v1</url>
-    </repository>
-  </distributionManagement>
   <properties> 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>  
