@@ -7,6 +7,30 @@
   <version>1.0-SNAPSHOT</version>  
   <packaging>jar</packaging>  
   <name>NLPService</name>
+  <repositories>
+    <repository>
+      <id>java-maven</id>
+      <url>https://pkgs.dev.azure.com/ehteshamchoudhury/sandbox/_packaging/java-maven/maven/v1</url>
+      <releases>
+      <enabled>true</enabled>
+      </releases>
+      <snapshots>
+      <enabled>true</enabled>
+      </snapshots>
+    </repository>
+  </repositories>
+  <distributionManagement>
+     <repository>
+        <id>java-maven</id>
+        <url>https://pkgs.dev.azure.com/ehteshamchoudhury/sandbox/_packaging/java-maven/maven/v1</url>
+        <releases>
+        <enabled>true</enabled>
+        </releases>
+        <snapshots>
+        <enabled>true</enabled>
+        </snapshots>
+    </repository>
+  </distributionManagement>
   <properties> 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>  
