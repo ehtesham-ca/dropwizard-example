@@ -1,0 +1,6 @@
+NLPService\resources\SampleResource.class
+NLPService\NLPServiceApplication.class
+NLPService\health\PingCheck.class
+NLPService\api\SampleRequestObj.class
+NLPService\api\SampleResponseObj.class
+NLPService\NLPServiceConfiguration.class

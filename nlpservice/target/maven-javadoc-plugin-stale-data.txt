@@ -1,0 +1,19 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\AdoptOpenJDK\jdk-8.0.282.8-hotspot\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\allclasses-frame.html = 1612817890294
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\allclasses-noframe.html = 1612817890298
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\argfile = 1612817889211
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\constant-values.html = 1612817890252
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\deprecated-list.html = 1612817890291
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\help-doc.html = 1612817890306
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\index-all.html = 1612817890288
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\index.html = 1612817890300
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\options = 1612817889209
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\overview-frame.html = 1612817890215
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\overview-summary.html = 1612817890303
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\overview-tree.html = 1612817890284
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\package-list = 1612817890213
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\script.js = 1612817890309
+C:\Dayforce\Java\DayforceNLPService\nlpservice\target\apidocs\stylesheet.css = 1612800306742
