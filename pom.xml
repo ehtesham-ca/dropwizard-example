@@ -9,8 +9,8 @@
   <name>NLPService</name>
   <repositories>
     <repository>
-      <id>java-maven</id>
-      <url>https://pkgs.dev.azure.com/ehteshamchoudhury/sandbox/_packaging/java-maven/maven/v1</url>
+      <id>test-maven</id>
+      <url>https://pkgs.dev.azure.com/ehteshamchoudhury/sandbox/_packaging/test-maven/maven/v1</url>
       <releases>
       <enabled>true</enabled>
       </releases>
@@ -21,8 +21,8 @@
   </repositories>
   <distributionManagement>
      <repository>
-        <id>java-maven</id>
-        <url>https://pkgs.dev.azure.com/ehteshamchoudhury/sandbox/_packaging/java-maven/maven/v1</url>
+        <id>test-maven</id>
+        <url>https://pkgs.dev.azure.com/ehteshamchoudhury/sandbox/_packaging/test-maven/maven/v1</url>
         <releases>
         <enabled>true</enabled>
         </releases>
